@@ -52,4 +52,4 @@ This project aims to enhance vehicle safety by integrating an alcohol detection 
 
 👨‍💻 Mouli S  
 St. Joseph's College of Engineering  
-Department of ECE
+Department of EEE
